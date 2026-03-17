@@ -1,3 +1,5 @@
+# Backtracking
+
 A medida que vai explorando o ambiente, o robo cria um mapa interno das rotas exploradas. Caso uma rota nao gere solucao, outro caminho e escolhido ate que a solucao seja obtida ou nao existam mais opcoes.
 
 São criados labirintos com exatamente 1 entrada e ate 1 saída, com tamanho máximo de 100 x 100 posições. Pode não haver rota possível, mas se existir uma saída, ela está sempre na borda do labirinto e não é o ponto de partida.
